@@ -1,1 +1,9 @@
-
+       Preconditions
+       Go to the https://ostrov_shop.by
+         
+       Steps              
+       Step_1: Click on the 'Войти' button
+       Step_2: Click on the 'Регистрация' button
+       Step_3: Fill in all required fields
+         
+       Actual_result: Required fields not marked
